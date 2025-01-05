@@ -18,8 +18,12 @@ I am a cybersecurity enthusiast with a passion for protecting data and systems f
 
 ## Projects
 
+### Completed Projects
+- [**Security Audit Lab**]https://github.com/jtaylormusicnow/Security-Audit-Lab - Conducted a security audit for Botium Toys, identifying vulnerabilities, assessing risks, and proposing solutions based on the NIST Cybersecurity Framework.
+
 ### Projects in Progress
 I am currently working through the Google Cybersecurity course on Coursera. All completed projects will be highlighted here and uploaded to my GitHub repository.
+
 
 ---
 
